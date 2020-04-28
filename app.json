@@ -1,6 +1,6 @@
 {
-  "name": "Matrix",
-  "description": "Matrix produces a virtual office for remote teams. In this project, you can run a virtual office to simulate the physical environment",
+  "name": "Amplação",
+  "description": "Amplação salas virtuais",
   "repository": "https://github.com/ResultadosDigitais/matrix",
   "keywords": ["online workspace", "virtual office", "remote teams"],
   "stack": "container",

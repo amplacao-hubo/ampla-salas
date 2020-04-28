@@ -1,0 +1,16 @@
+ROOMS_DATA=[
+    {
+       "id":"5119b84e-1912-422c-9dab-f01df64aa02d",
+       "name":"Lounge",
+       "disableMeeting":true
+    },
+    {
+       "id":"32cfbb1b-fe10-49b7-a025-b703f6ab2469",
+       "name":"WAR ROOM CDP",
+    },
+    {
+       "id":"0a00623d-e01a-4e90-921f-9bbd5c944545",
+       "name":"Data Services",
+       "externalMeetUrl": "https://external-url-room/0a00623d-e01a-4e90-921f-9bbd5c944545"
+    }
+  ]
